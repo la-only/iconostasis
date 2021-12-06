@@ -1,5 +1,5 @@
-.. image:: https://img.shields.io/pypi/pyversions/twine.svg
-   :target: https://pypi.org/project/twine
+.. image:: https://img.shields.io/pypi/pyversions/iconostasis.svg
+   :target: https://pypi.org/project/iconostasis
 
 # iconostasis
 Make app icon for store simple. Again and again. And Again
