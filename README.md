@@ -1,5 +1,4 @@
-.. image:: https://img.shields.io/pypi/pyversions/iconostasis.svg
-   :target: https://pypi.org/project/iconostasis
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/iconostasis)
 
 # iconostasis
 Make app icon for store simple. Again and again. And Again
